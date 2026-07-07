@@ -1,0 +1,282 @@
+{
+  "2026-07-07T07:30:00": {
+    "Jokioinen Ilmala": {
+      "Air temperature": {
+        "value": 12.2,
+        "units": "degC"
+      },
+      "Wind speed": {
+        "value": 3.3,
+        "units": "m/s"
+      },
+      "Gust speed": {
+        "value": 6.5,
+        "units": "m/s"
+      },
+      "Wind direction": {
+        "value": 296.0,
+        "units": "deg"
+      },
+      "Relative humidity": {
+        "value": 93.0,
+        "units": "%"
+      },
+      "Dew-point temperature": {
+        "value": 11.0,
+        "units": "degC"
+      },
+      "Precipitation amount": {
+        "value": null,
+        "units": "mm"
+      },
+      "Precipitation intensity": {
+        "value": 0.0,
+        "units": "mm/h"
+      },
+      "Snow depth": {
+        "value": -1.0,
+        "units": "cm"
+      },
+      "Pressure (msl)": {
+        "value": 993.8,
+        "units": "hPa"
+      },
+      "Horizontal visibility": {
+        "value": 20000.0,
+        "units": "m"
+      },
+      "Cloud amount": {
+        "value": 8.0,
+        "units": "1/8"
+      },
+      "Present weather (auto)": {
+        "value": 61.0,
+        "units": ""
+      }
+    }
+  },
+  "2026-07-07T07:40:00": {
+    "Jokioinen Ilmala": {
+      "Air temperature": {
+        "value": 12.0,
+        "units": "degC"
+      },
+      "Wind speed": {
+        "value": 3.4,
+        "units": "m/s"
+      },
+      "Gust speed": {
+        "value": 7.0,
+        "units": "m/s"
+      },
+      "Wind direction": {
+        "value": 293.0,
+        "units": "deg"
+      },
+      "Relative humidity": {
+        "value": 91.0,
+        "units": "%"
+      },
+      "Dew-point temperature": {
+        "value": 10.6,
+        "units": "degC"
+      },
+      "Precipitation amount": {
+        "value": null,
+        "units": "mm"
+      },
+      "Precipitation intensity": {
+        "value": 0.0,
+        "units": "mm/h"
+      },
+      "Snow depth": {
+        "value": -1.0,
+        "units": "cm"
+      },
+      "Pressure (msl)": {
+        "value": 993.9,
+        "units": "hPa"
+      },
+      "Horizontal visibility": {
+        "value": 20000.0,
+        "units": "m"
+      },
+      "Cloud amount": {
+        "value": 8.0,
+        "units": "1/8"
+      },
+      "Present weather (auto)": {
+        "value": 61.0,
+        "units": ""
+      }
+    }
+  },
+  "2026-07-07T07:50:00": {
+    "Jokioinen Ilmala": {
+      "Air temperature": {
+        "value": 12.1,
+        "units": "degC"
+      },
+      "Wind speed": {
+        "value": 2.5,
+        "units": "m/s"
+      },
+      "Gust speed": {
+        "value": 6.3,
+        "units": "m/s"
+      },
+      "Wind direction": {
+        "value": 301.0,
+        "units": "deg"
+      },
+      "Relative humidity": {
+        "value": 94.0,
+        "units": "%"
+      },
+      "Dew-point temperature": {
+        "value": 11.1,
+        "units": "degC"
+      },
+      "Precipitation amount": {
+        "value": null,
+        "units": "mm"
+      },
+      "Precipitation intensity": {
+        "value": 0.0,
+        "units": "mm/h"
+      },
+      "Snow depth": {
+        "value": -1.0,
+        "units": "cm"
+      },
+      "Pressure (msl)": {
+        "value": 994.0,
+        "units": "hPa"
+      },
+      "Horizontal visibility": {
+        "value": 19700.0,
+        "units": "m"
+      },
+      "Cloud amount": {
+        "value": 8.0,
+        "units": "1/8"
+      },
+      "Present weather (auto)": {
+        "value": 23.0,
+        "units": ""
+      }
+    }
+  },
+  "2026-07-07T08:00:00": {
+    "Jokioinen Ilmala": {
+      "Air temperature": {
+        "value": 12.5,
+        "units": "degC"
+      },
+      "Wind speed": {
+        "value": 1.6,
+        "units": "m/s"
+      },
+      "Gust speed": {
+        "value": 5.0,
+        "units": "m/s"
+      },
+      "Wind direction": {
+        "value": 296.0,
+        "units": "deg"
+      },
+      "Relative humidity": {
+        "value": 93.0,
+        "units": "%"
+      },
+      "Dew-point temperature": {
+        "value": 11.5,
+        "units": "degC"
+      },
+      "Precipitation amount": {
+        "value": 0.2,
+        "units": "mm"
+      },
+      "Precipitation intensity": {
+        "value": 0.0,
+        "units": "mm/h"
+      },
+      "Snow depth": {
+        "value": -1.0,
+        "units": "cm"
+      },
+      "Pressure (msl)": {
+        "value": 993.9,
+        "units": "hPa"
+      },
+      "Horizontal visibility": {
+        "value": 19789.0,
+        "units": "m"
+      },
+      "Cloud amount": {
+        "value": 8.0,
+        "units": "1/8"
+      },
+      "Present weather (auto)": {
+        "value": 81.0,
+        "units": ""
+      }
+    }
+  },
+  "2026-07-07T08:10:00": {
+    "Jokioinen Ilmala": {
+      "Air temperature": {
+        "value": 13.1,
+        "units": "degC"
+      },
+      "Wind speed": {
+        "value": 1.9,
+        "units": "m/s"
+      },
+      "Gust speed": {
+        "value": 5.5,
+        "units": "m/s"
+      },
+      "Wind direction": {
+        "value": 282.0,
+        "units": "deg"
+      },
+      "Relative humidity": {
+        "value": 92.0,
+        "units": "%"
+      },
+      "Dew-point temperature": {
+        "value": 11.8,
+        "units": "degC"
+      },
+      "Precipitation amount": {
+        "value": null,
+        "units": "mm"
+      },
+      "Precipitation intensity": {
+        "value": 0.0,
+        "units": "mm/h"
+      },
+      "Snow depth": {
+        "value": -1.0,
+        "units": "cm"
+      },
+      "Pressure (msl)": {
+        "value": 993.9,
+        "units": "hPa"
+      },
+      "Horizontal visibility": {
+        "value": 19923.0,
+        "units": "m"
+      },
+      "Cloud amount": {
+        "value": 8.0,
+        "units": "1/8"
+      },
+      "Present weather (auto)": {
+        "value": 81.0,
+        "units": ""
+      }
+    }
+  }
+}
