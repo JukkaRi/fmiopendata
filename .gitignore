@@ -39,6 +39,12 @@ htmlcov
 .venv
 venv
 
+# Azure Functions local settings (contains local connection strings)
+local.settings.json
+azure_function/.python_packages
+azure_function/__pycache__
+azure_function/.azurite
+
 ### C IGNORES ###
 # Object files
 *.o
