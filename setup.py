@@ -28,6 +28,7 @@ from fmiopendata import __version__
 install_requires = ['numpy', 'requests', 'defusedxml']
 extras_require = {'radar': ['rasterio'],
                   'grid': ['eccodes'],
+                  'api': ['fastapi', 'uvicorn[standard]'],
                   }
 all_extras = []
 for extra_deps in extras_require.values():

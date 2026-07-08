@@ -35,6 +35,10 @@ htmlcov
 #Mr Developer
 .mr.developer.cfg
 
+# Virtual environments
+.venv
+venv
+
 ### C IGNORES ###
 # Object files
 *.o
